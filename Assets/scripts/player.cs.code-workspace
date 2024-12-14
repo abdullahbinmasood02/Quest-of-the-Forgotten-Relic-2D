@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Downloads/Snake_Game/Snake_Game"
+		},
+		{
+			"path": "../../../Desktop/New folder (3)"
+		},
+		{
+			"path": "../../../Desktop/dl_project"
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "Snake_Game.sln"
+	}
+}

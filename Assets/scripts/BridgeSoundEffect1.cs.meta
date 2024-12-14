@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0e266b4c894dc8a489dabdf4b5f5fa0e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bridgeRestoreSound: {fileID: 8300000, guid: 475f4837af487ce4a9e68bb227455e4c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

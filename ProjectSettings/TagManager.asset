@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - obstacle
+  - speedboots
+  - enemy
+  - coin
+  - quicksand
+  - door
+  - powerup
+  - FiinalBoss
+  - Sword
+  - Ground
+  - Enemy
+  - Projectile
+  - Lava
+  - MovingPlatform
+  - end
+  - ground
+  - bcg
+  - roofIce
+  - platform
+  - icicle
+  - torch
+  - bat
+  - shield
+  - IceBrick
+  - health
+  - key
+  - PowerUp
+  - level1Button
+  - level2Button
+  - level3Button
+  - level4Button
+  - level5Button
+  - finalboss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - obstacle
+  - player
+  - powerups
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
